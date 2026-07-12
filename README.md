@@ -3,16 +3,7 @@
 An automated bookkeeping engine: raw bank CSVs in, categorized double-entry books,
 reconciliation, and a monthly close report out.
 
-## Status: Week 1 — Ledger Core ✅
-
-- [x] Chart of accounts (typed accounts, debit/credit behavior)
-- [x] Double-entry ledger with balance enforcement (SQLite)
-- [x] Trial balance with global debit=credit check
-- [ ] Week 2: CSV ingestion + rules-based categorization
-- [ ] Week 2: AI categorization layer (Anthropic API) with review queue
-- [ ] Week 3: Bank reconciliation module
-- [ ] Week 4: P&L / Balance Sheet generation + close report
-- [ ] Week 4: Streamlit interface
+## Status: completed
 
 ## Run the test
 
